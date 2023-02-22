@@ -4,7 +4,7 @@
  * in lower case 10x
  *
  **/
-void print_alphabet_x10
+void print_alphabet_x10(void)
 {
 	char ch;
 	char i = 0;
@@ -21,3 +21,4 @@ void print_alphabet_x10
 		i++;
 
 	}
+}
